@@ -1,8 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://shivamrajpoot2410.io)
+[![MasterHead](https://i.postimg.cc/7ZPTfJzy/IMG-20240228-133514-805.png)](https://shivamrajpoot2410.io)
 
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">A passionate frontend developer | Coding Enthusiast</h3>
-<img img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3znyuwzx8dqZwh6qUVZm5a&ust=1709196426123000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLj0mJbTzYQDFQAAAAAdAAAAABAE">
+<img img align="right" alt="Coding" width="400" src="https://i.postimg.cc/26B1PPqH/bbe642-62414e50bef34ce28db1afabf55f17ec-mv2.gif">
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamrajpoot2410&label=Profile%20views&color=0e75b6&style=flat" alt="shivamrajpoot2410" /> </p>
 
@@ -40,3 +41,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamrajpoot2410&show_icons=true&locale=en" alt="shivamrajpoot2410" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamrajpoot2410&" alt="shivamrajpoot2410" /></p>
+<p><img align="center" src="https://i.postimg.cc/vZqm8NXy/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="shivamrajpoot2410" /></p>
+
